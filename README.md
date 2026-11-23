@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="assets/ch1hub-emblem.png" width="210" alt="Ch1Hub — forensic tech emblem">
+#<div align="center">
+ # <img src="assets/ch1hub-emblem.png" width="210" alt="Ch1Hub — forensic tech emblem">
 
   <h1>Chikhaoui Youcef Chihab Eddine</h1>
 
